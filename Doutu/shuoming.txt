@@ -1,0 +1,5 @@
+scrapy 并发 多线程 异步
+items.py 容器 定义需要保存的数据
+piplines.py 将数据保存 mysql，mongodb，json......
+settings.py 请求延迟，控制并发数。。。。
+spider 里有些属性必须定义 name必须唯一
